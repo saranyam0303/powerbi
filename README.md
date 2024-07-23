@@ -15,6 +15,7 @@ This report provides an in-depth analysis of sales performance across various di
    Central region remains the strongest market. The canada region shows sales are currently lower.
 5.Sales by Market:
    APAC market shows significant revenue generators.The Canada market shows sales are currently lower.
+
 Conclusion:
  The interactive sales dashboard provides a detailed overview of sales performance across multiple dimensions. Key insights from the data highlight the dominance of specific shipping 
  modes, cities, and regions, as well as opportunities for growth in less prominent areas.
